@@ -9,3 +9,5 @@
 Добавили текст в новой ветке new_branch
 
 Добавили локальный конфликт текст
+
+Added another conflict remotely
